@@ -1,0 +1,62 @@
+/*Title*/
+
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #b8987d;
+  background-image: url("")
+}
+
+ /* Link */
+
+a:link {
+  color: #dec4ae;
+  background-color: transparent;
+} 
+
+a:visited {
+  color: #b8987d;
+  background-color: transparent;
+}
+  
+a:hover {
+  color: #ad896a;
+  background-color: transparent;
+  line-height: normal;
+}
+
+/*Tables*/
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gainsboro;
+  text-align: center;
+  background-image: url(https://i.imgur.com/yv9ee.jpeg);
+  background-size: cover;
+}
+
+table, th, td {
+  width: 30%;
+  height: 30%;
+  border: 3px solid #e4e3df;
+  border-collapse: collapse;
+  color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+th, td {
+  background-color: #d6d4cb;
+  color: white;
+}
+
+.code {
+  font-family: monospace;
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+}
